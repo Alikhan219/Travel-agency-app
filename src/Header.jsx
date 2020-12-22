@@ -8,8 +8,8 @@ const Header = () => {
         <label for="check" class="checkbtn">
             <i class="fas fa-bars"></i>
         </label>
-        
-        <label className="logo">TRVL</label>
+
+        <label className="logo">TRAVEL <i class="fas fa-plane-departure"></i></label>
         <ul>
           <li>
             <a href="#" className="active">
